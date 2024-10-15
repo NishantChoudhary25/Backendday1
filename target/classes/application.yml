@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://cnishant227:oaXP2FXSWMe8iXgA@organitzationcrud.kchjn.mongodb.net/
+            database: task       
